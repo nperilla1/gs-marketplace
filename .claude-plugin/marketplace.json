@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gs-marketplace",
+  "description": "GrantSmiths Claude Code plugin registry — orchestration, agents, skills, and tools for the grant writing platform",
+  "owner": {
+    "name": "Nicolas Perilla",
+    "email": "nperilla@grantsmiths.com"
+  },
+  "plugins": [
+    {
+      "name": "gs-orchestrator",
+      "description": "Unified orchestration plugin — 13 agents, 38 skills, 7 hooks, 7 commands, 5 MCP servers for GrantSmiths platform development.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nicolas Perilla"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nperilla1/gs-orchestrator.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/nperilla1/gs-orchestrator"
+    }
+  ]
+}
