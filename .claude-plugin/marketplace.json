@@ -20,6 +20,20 @@
       },
       "category": "productivity",
       "homepage": "https://github.com/nperilla1/gs-orchestrator"
+    },
+    {
+      "name": "gs-qa",
+      "description": "Intent-driven autonomous QA system — discovers what code should do, then tests against that intent. 11 agents, 15 skills, 11-phase pipeline with mutation testing and self-healing.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nicolas Perilla"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nperilla1/gs-qa.git"
+      },
+      "category": "testing",
+      "homepage": "https://github.com/nperilla1/gs-qa"
     }
   ]
 }
